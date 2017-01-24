@@ -1,0 +1,13 @@
+C:\Users\Susano\Documents\Visual Studio 2015\Projects\KalkulatorWPF\KalkulatorWPF\bin\Release\KalkulatorWPF.exe.config
+C:\Users\Susano\Documents\Visual Studio 2015\Projects\KalkulatorWPF\KalkulatorWPF\bin\Release\KalkulatorWPF.exe
+C:\Users\Susano\Documents\Visual Studio 2015\Projects\KalkulatorWPF\KalkulatorWPF\bin\Release\KalkulatorWPF.pdb
+C:\Users\Susano\Documents\Visual Studio 2015\Projects\KalkulatorWPF\KalkulatorWPF\obj\Release\MainWindow.g.cs
+C:\Users\Susano\Documents\Visual Studio 2015\Projects\KalkulatorWPF\KalkulatorWPF\obj\Release\App.g.cs
+C:\Users\Susano\Documents\Visual Studio 2015\Projects\KalkulatorWPF\KalkulatorWPF\obj\Release\KalkulatorWPF_MarkupCompile.cache
+C:\Users\Susano\Documents\Visual Studio 2015\Projects\KalkulatorWPF\KalkulatorWPF\obj\Release\KalkulatorWPF_MarkupCompile.lref
+C:\Users\Susano\Documents\Visual Studio 2015\Projects\KalkulatorWPF\KalkulatorWPF\obj\Release\MainWindow.baml
+C:\Users\Susano\Documents\Visual Studio 2015\Projects\KalkulatorWPF\KalkulatorWPF\obj\Release\KalkulatorWPF.g.resources
+C:\Users\Susano\Documents\Visual Studio 2015\Projects\KalkulatorWPF\KalkulatorWPF\obj\Release\KalkulatorWPF.Properties.Resources.resources
+C:\Users\Susano\Documents\Visual Studio 2015\Projects\KalkulatorWPF\KalkulatorWPF\obj\Release\KalkulatorWPF.csproj.GenerateResource.Cache
+C:\Users\Susano\Documents\Visual Studio 2015\Projects\KalkulatorWPF\KalkulatorWPF\obj\Release\KalkulatorWPF.exe
+C:\Users\Susano\Documents\Visual Studio 2015\Projects\KalkulatorWPF\KalkulatorWPF\obj\Release\KalkulatorWPF.pdb
